@@ -1,0 +1,242 @@
+[
+    {
+        "merged": "com.example.myapplication.app-merged_res-28:/mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "com.example.myapplication.app-main-30:/mipmap-hdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.myapplication.app-merged_res-28:/layout_activity_hw2_main.xml.flat",
+        "source": "com.example.myapplication.app-main-30:/layout/activity_hw2_main.xml"
+    },
+    {
+        "merged": "com.example.myapplication.app-merged_res-28:/drawable_kimheesun.jpg.flat",
+        "source": "com.example.myapplication.app-main-30:/drawable/kimheesun.jpg"
+    },
+    {
+        "merged": "com.example.myapplication.app-merged_res-28:/drawable_ic_launcher_background.xml.flat",
+        "source": "com.example.myapplication.app-main-30:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "com.example.myapplication.app-merged_res-28:/layout_item_gridview.xml.flat",
+        "source": "com.example.myapplication.app-main-30:/layout/item_gridview.xml"
+    },
+    {
+        "merged": "com.example.myapplication.app-merged_res-28:/mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.myapplication.app-main-30:/mipmap-hdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.myapplication.app-merged_res-28:/drawable_kimtaehee.jpg.flat",
+        "source": "com.example.myapplication.app-main-30:/drawable/kimtaehee.jpg"
+    },
+    {
+        "merged": "com.example.myapplication.app-merged_res-28:/drawable_border.9.png.flat",
+        "source": "com.example.myapplication.app-main-30:/drawable/border.9.png"
+    },
+    {
+        "merged": "com.example.myapplication.app-merged_res-28:/xml_backup_rules.xml.flat",
+        "source": "com.example.myapplication.app-main-30:/xml/backup_rules.xml"
+    },
+    {
+        "merged": "com.example.myapplication.app-merged_res-28:/drawable_apple.jpg.flat",
+        "source": "com.example.myapplication.app-main-30:/drawable/apple.jpg"
+    },
+    {
+        "merged": "com.example.myapplication.app-merged_res-28:/mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "com.example.myapplication.app-main-30:/mipmap-xhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.myapplication.app-merged_res-28:/xml_data_extraction_rules.xml.flat",
+        "source": "com.example.myapplication.app-main-30:/xml/data_extraction_rules.xml"
+    },
+    {
+        "merged": "com.example.myapplication.app-merged_res-28:/drawable_ic_launcher_foreground.xml.flat",
+        "source": "com.example.myapplication.app-main-30:/drawable/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "com.example.myapplication.app-merged_res-28:/layout_activity_hw2_list_view_main.xml.flat",
+        "source": "com.example.myapplication.app-main-30:/layout/activity_hw2_list_view_main.xml"
+    },
+    {
+        "merged": "com.example.myapplication.app-merged_res-28:/layout_activity_hw2_second.xml.flat",
+        "source": "com.example.myapplication.app-main-30:/layout/activity_hw2_second.xml"
+    },
+    {
+        "merged": "com.example.myapplication.app-merged_res-28:/drawable_kimbap.jpg.flat",
+        "source": "com.example.myapplication.app-main-30:/drawable/kimbap.jpg"
+    },
+    {
+        "merged": "com.example.myapplication.app-merged_res-28:/layout_activity_w1_main.xml.flat",
+        "source": "com.example.myapplication.app-main-30:/layout/activity_w1_main.xml"
+    },
+    {
+        "merged": "com.example.myapplication.app-merged_res-28:/drawable_side_nav_bar.xml.flat",
+        "source": "com.example.myapplication.app-main-30:/drawable/side_nav_bar.xml"
+    },
+    {
+        "merged": "com.example.myapplication.app-merged_res-28:/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.myapplication.app-main-30:/mipmap-xxxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.myapplication.app-merged_res-28:/layout_activity_custom_adapter32.xml.flat",
+        "source": "com.example.myapplication.app-main-30:/layout/activity_custom_adapter32.xml"
+    },
+    {
+        "merged": "com.example.myapplication.app-merged_res-28:/drawable_dell.jpg.flat",
+        "source": "com.example.myapplication.app-main-30:/drawable/dell.jpg"
+    },
+    {
+        "merged": "com.example.myapplication.app-merged_res-28:/layout_activity_main.xml.flat",
+        "source": "com.example.myapplication.app-main-30:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.example.myapplication.app-merged_res-28:/layout_activity_demo_main.xml.flat",
+        "source": "com.example.myapplication.app-main-30:/layout/activity_demo_main.xml"
+    },
+    {
+        "merged": "com.example.myapplication.app-merged_res-28:/mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.myapplication.app-main-30:/mipmap-xxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.myapplication.app-merged_res-28:/layout_activity_adapter.xml.flat",
+        "source": "com.example.myapplication.app-main-30:/layout/activity_adapter.xml"
+    },
+    {
+        "merged": "com.example.myapplication.app-merged_res-28:/layout_activity_demo_grid_view.xml.flat",
+        "source": "com.example.myapplication.app-main-30:/layout/activity_demo_grid_view.xml"
+    },
+    {
+        "merged": "com.example.myapplication.app-merged_res-28:/layout_activity_demo_list_view_main.xml.flat",
+        "source": "com.example.myapplication.app-main-30:/layout/activity_demo_list_view_main.xml"
+    },
+    {
+        "merged": "com.example.myapplication.app-merged_res-28:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "com.example.myapplication.app-main-30:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "com.example.myapplication.app-merged_res-28:/mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "com.example.myapplication.app-main-30:/mipmap-xxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.myapplication.app-merged_res-28:/drawable_blogger.jpg.flat",
+        "source": "com.example.myapplication.app-main-30:/drawable/blogger.jpg"
+    },
+    {
+        "merged": "com.example.myapplication.app-merged_res-28:/layout_activity_contact.xml.flat",
+        "source": "com.example.myapplication.app-main-30:/layout/activity_contact.xml"
+    },
+    {
+        "merged": "com.example.myapplication.app-merged_res-28:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "com.example.myapplication.app-main-30:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "com.example.myapplication.app-merged_res-28:/drawable_shank.png.flat",
+        "source": "com.example.myapplication.app-main-30:/drawable/shank.png"
+    },
+    {
+        "merged": "com.example.myapplication.app-merged_res-28:/layout_activity_model.xml.flat",
+        "source": "com.example.myapplication.app-main-30:/layout/activity_model.xml"
+    },
+    {
+        "merged": "com.example.myapplication.app-merged_res-28:/mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.myapplication.app-main-30:/mipmap-xhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.myapplication.app-merged_res-28:/drawable_one65.png.flat",
+        "source": "com.example.myapplication.app-main-30:/drawable/one65.png"
+    },
+    {
+        "merged": "com.example.myapplication.app-merged_res-28:/drawable_kimchi.png.flat",
+        "source": "com.example.myapplication.app-main-30:/drawable/kimchi.png"
+    },
+    {
+        "merged": "com.example.myapplication.app-merged_res-28:/drawable_ic_home_black_24dp.xml.flat",
+        "source": "com.example.myapplication.app-main-30:/drawable/ic_home_black_24dp.xml"
+    },
+    {
+        "merged": "com.example.myapplication.app-merged_res-28:/drawable_kimsoeun.jpg.flat",
+        "source": "com.example.myapplication.app-main-30:/drawable/kimsoeun.jpg"
+    },
+    {
+        "merged": "com.example.myapplication.app-merged_res-28:/layout_activity_demo_spinner33.xml.flat",
+        "source": "com.example.myapplication.app-main-30:/layout/activity_demo_spinner33.xml"
+    },
+    {
+        "merged": "com.example.myapplication.app-merged_res-28:/drawable_facebook.jpg.flat",
+        "source": "com.example.myapplication.app-main-30:/drawable/facebook.jpg"
+    },
+    {
+        "merged": "com.example.myapplication.app-merged_res-28:/drawable_hancock.png.flat",
+        "source": "com.example.myapplication.app-main-30:/drawable/hancock.png"
+    },
+    {
+        "merged": "com.example.myapplication.app-merged_res-28:/drawable_android.jpg.flat",
+        "source": "com.example.myapplication.app-main-30:/drawable/android.jpg"
+    },
+    {
+        "merged": "com.example.myapplication.app-merged_res-28:/drawable_ic_launcher.png.flat",
+        "source": "com.example.myapplication.app-main-30:/drawable/ic_launcher.png"
+    },
+    {
+        "merged": "com.example.myapplication.app-merged_res-28:/drawable_hp.jpg.flat",
+        "source": "com.example.myapplication.app-main-30:/drawable/hp.jpg"
+    },
+    {
+        "merged": "com.example.myapplication.app-merged_res-28:/layout_activity_hw1_main.xml.flat",
+        "source": "com.example.myapplication.app-main-30:/layout/activity_hw1_main.xml"
+    },
+    {
+        "merged": "com.example.myapplication.app-merged_res-28:/drawable_microsoft.png.flat",
+        "source": "com.example.myapplication.app-main-30:/drawable/microsoft.png"
+    },
+    {
+        "merged": "com.example.myapplication.app-merged_res-28:/drawable_xbox.jpg.flat",
+        "source": "com.example.myapplication.app-main-30:/drawable/xbox.jpg"
+    },
+    {
+        "merged": "com.example.myapplication.app-merged_res-28:/drawable_ic_dashboard_black_24dp.xml.flat",
+        "source": "com.example.myapplication.app-main-30:/drawable/ic_dashboard_black_24dp.xml"
+    },
+    {
+        "merged": "com.example.myapplication.app-merged_res-28:/layout_activity_hw22_main.xml.flat",
+        "source": "com.example.myapplication.app-main-30:/layout/activity_hw22_main.xml"
+    },
+    {
+        "merged": "com.example.myapplication.app-merged_res-28:/drawable_kimnamjoo.jpg.flat",
+        "source": "com.example.myapplication.app-main-30:/drawable/kimnamjoo.jpg"
+    },
+    {
+        "merged": "com.example.myapplication.app-merged_res-28:/layout_item_listview.xml.flat",
+        "source": "com.example.myapplication.app-main-30:/layout/item_listview.xml"
+    },
+    {
+        "merged": "com.example.myapplication.app-merged_res-28:/drawable_chrome.jpg.flat",
+        "source": "com.example.myapplication.app-main-30:/drawable/chrome.jpg"
+    },
+    {
+        "merged": "com.example.myapplication.app-merged_res-28:/drawable_ie.jpg.flat",
+        "source": "com.example.myapplication.app-main-30:/drawable/ie.jpg"
+    },
+    {
+        "merged": "com.example.myapplication.app-merged_res-28:/drawable_ic_notifications_black_24dp.xml.flat",
+        "source": "com.example.myapplication.app-main-30:/drawable/ic_notifications_black_24dp.xml"
+    },
+    {
+        "merged": "com.example.myapplication.app-merged_res-28:/mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "com.example.myapplication.app-main-30:/mipmap-mdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.myapplication.app-merged_res-28:/mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.myapplication.app-main-30:/mipmap-mdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.myapplication.app-merged_res-28:/mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "com.example.myapplication.app-main-30:/mipmap-xxxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.myapplication.app-merged_res-28:/drawable_firefox.jpg.flat",
+        "source": "com.example.myapplication.app-main-30:/drawable/firefox.jpg"
+    },
+    {
+        "merged": "com.example.myapplication.app-merged_res-28:/drawable_twitter.jpg.flat",
+        "source": "com.example.myapplication.app-main-30:/drawable/twitter.jpg"
+    }
+]
